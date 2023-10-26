@@ -1,9 +1,11 @@
-/* 自定义 "giscus" 的背景颜色为白色 */
+
 .giscus {
     background: white !important;
 }
-/* 自定义评论框的文本颜色和字体大小 */
+
 .giscus-comment-box {
-    color: #333; /* 自定义文本颜色 */
-    font-size: 16px; /* 自定义字体大小 */
+    color: #333; 
+    font-size: 16px; 
 }
+.giscus .giscus-thread .giscus-comment-box {
+    background: white;

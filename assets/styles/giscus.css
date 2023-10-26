@@ -1,11 +1,5 @@
-
-.giscus {
-    background: white !important;
-}
-
-.giscus-comment-box {
-    color: #333; 
-    font-size: 16px; 
-}
-.giscus .giscus-thread .giscus-comment-box {
-    background: white;
+<style>
+  .giscus {
+    background: white !important; /* 设置背景颜色为白色 */
+  }
+</style>

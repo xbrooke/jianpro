@@ -1,5 +1,3 @@
-<style>
-  .giscus {
-    background: white !important; /* 设置背景颜色为白色 */
-  }
-</style>
+#giscus {
+    background-color: white; /* 设置背景颜色为白色 */
+}
